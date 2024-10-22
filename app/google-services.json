@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436654534834",
+    "project_id": "chatternet-b6cec",
+    "storage_bucket": "chatternet-b6cec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436654534834:android:4d2334963764ec37dc59ab",
+        "android_client_info": {
+          "package_name": "com.example.chatternet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9mO4oKM6bOkVKceCcQcCFJT8fFtXmyIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
